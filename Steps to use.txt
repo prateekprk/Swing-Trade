@@ -1,0 +1,7 @@
+1. Data for at least 3 months can be downloaded from the following link for any stock of choice.
+
+https://www1.nseindia.com/products/content/equities/equities/eq_security.htm
+
+2. Feed the data to the attached program and the output will be set of graphs.
+
+3. The graphs will give an idea of how to analyze the stock and whether it will be showing an upmove. 
